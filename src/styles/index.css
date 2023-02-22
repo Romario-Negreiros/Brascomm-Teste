@@ -22,3 +22,11 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+.success-msg {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
